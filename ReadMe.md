@@ -6,10 +6,7 @@ Für  die Präsentation wurde hauptsächlich das heart_failure Datenset verwende
 ## Links zu Daten
 - Heart Failure Prediction Dataset  <br>
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
-<br>
-- Heart Attack Analysis & Prediction Dataset (mit eindeutigem Selection Bias) <br>
 
-https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
 ## Erklärung der Features
 

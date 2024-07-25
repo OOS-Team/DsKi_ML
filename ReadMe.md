@@ -3,7 +3,7 @@
 ## Info
 11 klinische Merkmale zur Vorhersage von Herzerkrankungen.
 
-## Links zu Daten
+## Link zu Daten
 - Heart Failure Prediction Dataset  <br>
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 

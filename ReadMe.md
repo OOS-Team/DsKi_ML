@@ -1,7 +1,7 @@
 # Dokumentation für heart_attack und heart_failure
 
 ## Info
-Für  die Präsentation wurde hauptsächlich das heart_failure Datenset verwendet.
+11 klinische Merkmale zur Vorhersage von Herzerkrankungen.
 
 ## Links zu Daten
 - Heart Failure Prediction Dataset  <br>

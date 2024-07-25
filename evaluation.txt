@@ -1,0 +1,122 @@
+Ohne feature Eng.
+Final Evaluation for Logistic Regression:
+              precision    recall  f1-score   support
+
+           0       0.78      0.87      0.82        77
+           1       0.90      0.82      0.86       107
+
+    accuracy                           0.84       184
+   macro avg       0.84      0.85      0.84       184
+weighted avg       0.85      0.84      0.84       184
+
+
+
+Final Evaluation for Random Forest:
+              precision    recall  f1-score   support
+
+           0       0.80      0.84      0.82        77
+           1       0.88      0.85      0.87       107
+
+    accuracy                           0.85       184
+   macro avg       0.84      0.85      0.84       184
+weighted avg       0.85      0.85      0.85       184
+
+
+
+Final Evaluation for Support Vector Machine:
+              precision    recall  f1-score   support
+
+           0       0.78      0.86      0.81        77
+           1       0.89      0.82      0.85       107
+
+    accuracy                           0.84       184
+   macro avg       0.83      0.84      0.83       184
+weighted avg       0.84      0.84      0.84       184
+
+
+
+Final Evaluation for Gradient Boosting:
+              precision    recall  f1-score   support
+
+           0       0.83      0.87      0.85        77
+           1       0.90      0.87      0.89       107
+
+    accuracy                           0.87       184
+   macro avg       0.87      0.87      0.87       184
+weighted avg       0.87      0.87      0.87       184
+
+
+
+Final Evaluation for XGBoost:
+              precision    recall  f1-score   support
+
+           0       0.84      0.87      0.85        77
+           1       0.90      0.88      0.89       107
+
+    accuracy                           0.88       184
+   macro avg       0.87      0.87      0.87       184
+weighted avg       0.88      0.88      0.88       184
+
+
+
+Mit aktuellem Feat Eng und preprocessing
+Final Evaluation for Logistic Regression:
+              precision    recall  f1-score   support
+
+           0       0.78      0.87      0.82        77
+           1       0.90      0.82      0.86       107
+
+    accuracy                           0.84       184
+   macro avg       0.84      0.85      0.84       184
+weighted avg       0.85      0.84      0.84       184
+
+
+
+Final Evaluation for Random Forest:
+              precision    recall  f1-score   support
+
+           0       0.82      0.84      0.83        77
+           1       0.89      0.87      0.88       107
+
+    accuracy                           0.86       184
+   macro avg       0.85      0.86      0.86       184
+weighted avg       0.86      0.86      0.86       184
+
+
+
+Final Evaluation for Support Vector Machine:
+              precision    recall  f1-score   support
+
+           0       0.80      0.87      0.83        77
+           1       0.90      0.84      0.87       107
+
+    accuracy                           0.85       184
+   macro avg       0.85      0.86      0.85       184
+weighted avg       0.86      0.85      0.85       184
+
+
+
+Final Evaluation for Gradient Boosting:
+              precision    recall  f1-score   support
+
+           0       0.83      0.88      0.86        77
+           1       0.91      0.87      0.89       107
+
+    accuracy                           0.88       184
+   macro avg       0.87      0.88      0.87       184
+weighted avg       0.88      0.88      0.88       184
+
+
+
+Final Evaluation for XGBoost:
+              precision    recall  f1-score   support
+
+           0       0.84      0.87      0.85        77
+           1       0.90      0.88      0.89       107
+
+    accuracy                           0.88       184
+   macro avg       0.87      0.87      0.87       184
+weighted avg       0.88      0.88      0.88       184
+
+
+
